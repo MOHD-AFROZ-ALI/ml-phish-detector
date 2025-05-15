@@ -1,10 +1,6 @@
 
 # 🛡️ ML Phish Detector
 
-[![Build Status](https://github.com/your-org/mohd-afroz-ali-ml-phish-detector/actions/workflows/main.yml/badge.svg)](https://github.com/your-org/mohd-afroz-ali-ml-phish-detector/actions/workflows/main.yml)  
-[![Docker Pulls](https://img.shields.io/docker/pulls/your-dockerhub/ml-phish-detector.svg)](https://hub.docker.com/r/your-dockerhub/ml-phish-detector)  
-[![PyPI](https://img.shields.io/pypi/v/ml-phish-detector.svg)](https://pypi.org/project/ml-phish-detector/)  
-
 **Problem statement**  
 Phishing websites trick users into revealing personal data. Manually detecting them at scale is impractical. This project builds an end-to-end machine learning pipeline that ingests URL features, validates and transforms data, trains multiple classifiers, monitors drift, and deploys a REST API—automating phishing detection in production.
 
